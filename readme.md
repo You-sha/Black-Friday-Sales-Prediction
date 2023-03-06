@@ -624,7 +624,7 @@ cat_corr(train_df,'all')
     
 
 
-**Observation:** The correlation of `Product_Category_3` with `Purchase` seems to have increased. This might be good news.
+**Observation:** The correlation of `Product_Category_2` with `Purchase` seems to have increased. This might be good news.
 
 Now lets select the features we want to use for the model:
 
