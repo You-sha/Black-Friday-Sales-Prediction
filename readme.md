@@ -1,7 +1,11 @@
-<h1><center>Black Friday: Purchase Prediction</center></h1>
-<p><center>Predicting <b>Purchase</b> amount for Black Friday data.</center></p>
-<p><center>Tools used: <b>Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Dython</b></center><p/>
-<p><center>Sections:</center></p>
+# <p align="center"> Black Friday: Purchase Prediction </p>
+
+<p align="center"> Predicting <b>Purchase</b> amount for Black Friday data. </p>
+
+<p align="center"> Tools used: <b>Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Dython</p>
+
+<p align="center">Sections:</p>
+
 <p><center> 
     <a href="#Exploratory-Data-Analysis">
         Exploratory Data Analysis
@@ -63,19 +67,6 @@ train_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -189,19 +180,6 @@ test_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -691,19 +669,6 @@ X.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1164,19 +1129,6 @@ final_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
