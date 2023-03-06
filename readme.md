@@ -12,23 +12,23 @@
     </a>
 </p>
 
-<p><center> 
+<p align="center"> 
     <a href="#Preprocessing-and-Feature-Selection">
         Preprocessing and Feature Selection
     </a>
-</center></p>
+</p>
 
-<p><center>
+<p align="center">
     <a href="#Model-Building-and-Evaluation">
         Model Building and Evaluation
     </a>
-</center></p>
+</p>
 
-<p><center>
+<p align="center">
     <a href="#Final-Prediction">
         Final Prediction
     </a>
-</center></p>
+</p>
 
 ---
 
