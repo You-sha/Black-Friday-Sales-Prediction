@@ -6,11 +6,11 @@
 
 <p align="center">Sections:</p>
 
-<p><center> 
+<p align="center"> 
     <a href="#Exploratory-Data-Analysis">
         Exploratory Data Analysis
     </a>
-</center></p>
+</p>
 
 <p><center> 
     <a href="#Preprocessing-and-Feature-Selection">
