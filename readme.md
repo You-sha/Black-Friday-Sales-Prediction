@@ -4,33 +4,27 @@
 
 <p align="center"> Tools used: <b>Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Dython</p>
 
-<p align="center">Sections:</p>
+<p>Sections:</p>
 
-<p align="center"> 
-    <a href="#Exploratory-Data-Analysis">
-        Exploratory Data Analysis
-    </a>
-</p>
+* [Exploratory Data Analysis](#exploratory-data-analysis)
+* [Preprocessing and Feature Selection](#preprocessing-and-feature-selection)
+* [Model Building and Evaluation](#model-building-and-evaluation)
+* [Final Prediction](#final-prediction)
 
-<p align="center"> 
-    <a href="#Preprocessing-and-Feature-Selection">
-        Preprocessing and Feature Selection
-    </a>
-</p>
+**Summary:**
 
-<p align="center">
-    <a href="#Model-Building-and-Evaluation">
-        Model Building and Evaluation
-    </a>
-</p>
+We have to use a training dataset and make predictions for a testing dataset. 
 
-<p align="center">
-    <a href="#Final-Prediction">
-        Final Prediction
-    </a>
-</p>
+* We will explore the data and its correlations 
+* Deal with missing values 
+* Perform feature selection 
+* Build our model and make predictions 
 
----
+And the final step, we will predict the values for our test set and add them to it as a new column.
+
+We will have a final model of **Mean Absolute Error of around 2195**. We will also evaluate other metrics like MSE, RMSE, MDAE and MAPE.
+
+![png](readme_files/readme_67_0.png)
 
 # Exploratory Data Analysis
 
