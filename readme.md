@@ -13,7 +13,7 @@
 
 **Summary:**
 
-We have to use a training dataset and make predictions for a testing dataset. 
+We are going to use a training dataset and make predictions for a testing dataset. 
 
 * We will explore the data and its correlations 
 * Deal with missing values 
@@ -22,7 +22,7 @@ We have to use a training dataset and make predictions for a testing dataset.
 
 And the final step, we will predict the values for our test set and add them to it as a new column.
 
-We will have a final model of **Mean Absolute Error of around 2195**. We will also evaluate other metrics like MSE, RMSE, MDAE and MAPE.
+We will have a final model of **Mean Absolute Error of around 2195**. We will also evaluate other metrics like **MSE**, **RMSE**, **MDAE** and **MAPE**.
 
 ![png](readme_files/readme_67_0.png)
 
